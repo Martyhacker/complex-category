@@ -1,0 +1,2 @@
+String sampleJson =
+    '[{"id":1,"name":"parent 1","subcategories":[{"id":11,"name":"cat news 1 of 1","subcategories":[]}]},{"id":2,"name":"parent 2","subcategories":[]},{"id":3,"name":"parent 3","subcategories":[{"id":3,"name":"parent 3","subcategories":[{"id":3,"name":"parent 3","subcategories":[{"id":3,"name":"parent 3","subcategories":[{"id":3,"name":"parent 3","subcategories":[{"id":3,"name":"parent 3","subcategories":[{"id":3,"name":"parent 3","subcategories":[]}]}]}]}]}]}]}]';
